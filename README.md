@@ -22,5 +22,5 @@ I'm in love with :apple: :computer: and food :bread: :spaghetti: :cut_of_meat:
 I'm also quite good at cocking :cook:.
 
 ### You can find me on
-- [instagram](https://www.instagram.com/emanuel_soda/)
+- [Instagram](https://www.instagram.com/emanuel_soda/)
 - [Linkedin](https://www.linkedin.com/in/emanuel-soda-5b3565188/)
