@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it).
+I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it). Currently doing an internship at Istituto Europeo di Oncologia [IEO](https://www.ieo.it).
 
 ### Some of my work :construction_worker:
 - :brain: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
@@ -12,9 +12,10 @@ I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_sc
 I *really* like **Biology**, **Science**, **Statistics** and **Informatics**.
 I've studied *Java* :coffee:, *Python* :snake:, *R* :test_tube:.
 
+
 I've also experimented with different tools, like:
 - :octocat: Git and GitHub
-- :dolphin: MySQL Workbench for database management
+- :dolphin: [MySQL Workbench](https://www.mysql.com/it/products/workbench/) for database management
 
 I'm in love with :apple: :computer: and food :bread: :spaghetti: :cut_of_meat:
 :dumpling: :sushi:. 
