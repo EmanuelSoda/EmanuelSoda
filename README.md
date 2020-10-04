@@ -9,7 +9,7 @@ I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_sc
 
 
 ### Speaking of :speech_balloon:
-I *really * like Biology, science and Statistics and informatics.
+I *really* like Biology, science and Statistics and informatics.
 I' ve study I'm Java :coffee:, Python :snake:, R :test_tube:.
 
 I've also experimented with different tools, like:
