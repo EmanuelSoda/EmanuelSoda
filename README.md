@@ -23,3 +23,7 @@ I'm also quite good at cocking :cook:.
 ### You can find me on
 - [Instagram](https://www.instagram.com/emanuel_soda/)
 - [Linkedin](https://www.linkedin.com/in/emanuel-soda-5b3565188/)
+
+### Stats
+
+[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelSoda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
