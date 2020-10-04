@@ -9,17 +9,17 @@ I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_sc
 
 
 ### Speaking of :speech_balloon:
-I *really* like Biology, science and Statistics and informatics.
-I' ve study I'm Java :coffee:, Python :snake:, R :test_tube:.
+I *really* like **Biology**, **Science** and **Statistics** and **Informatics**.
+I' ve study I'm *Java* :coffee:, *Python* :snake:, *R* :test_tube:.
 
 I've also experimented with different tools, like:
 
-- :octocat: Git, GitHub and GitLab ('cause one will never be enough)
+- :octocat: Git and GitHub
 - :dolphin: MySQL Workbench for database management
 
 I'm in love with :apple: :computer: and food :bread: :spaghetti: :cut_of_meat:
 :dumpling: :sushi:. I'm also quite good at cocking :cook:.
 
 ### You can find me on
-- [instagram] (https://www.instagram.com/emanuel_soda/)
+- [instagram](https://www.instagram.com/emanuel_soda/)
 - [Linkedin](https://www.linkedin.com/in/emanuel-soda-5b3565188/)
