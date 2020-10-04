@@ -5,7 +5,7 @@ I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_sc
 ### Some of my work :construction_worker:
 - :brain: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
 - :snake: [BWT](https://github.com/EmanuelSoda/ProgrammingPython)
-- :dna:		[RNA-seq] (https://github.com/EmanuelSoda/TranscriptomicsProject)
+- :dna:		[RNA-seq](https://github.com/EmanuelSoda/TranscriptomicsProject)
 
 
 ### Speaking of :speech_balloon:
