@@ -10,7 +10,7 @@ I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_sc
 
 ### What I'm in to :heart:
 I *really* like **Biology**, **Science**, **Statistics** and **Informatics**.
-I' ve study *Java* :coffee:, *Python* :snake:, *R* :test_tube:.
+I've studied *Java* :coffee:, *Python* :snake:, *R* :test_tube:.
 
 I've also experimented with different tools, like:
 - :octocat: Git and GitHub
