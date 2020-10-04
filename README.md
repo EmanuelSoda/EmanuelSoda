@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**EmanuelSoda/EmanuelSoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_scientist: at [University of Milan](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it).
 
-Here are some ideas to get you started:
+### Some of my work :construction_worker:
+- :brain: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
+- :snake: [BWT](https://github.com/EmanuelSoda/ProgrammingPython)
+- :dna:		[RNA-seq] (https://github.com/EmanuelSoda/TranscriptomicsProject)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Speaking of :speech_balloon:
+I *really * like Biology, science and Statistics and informatics.
+I' ve study I'm Java :coffee:, Python :snake:, R :test_tube:.
+
+I've also experimented with different tools, like:
+
+- :octocat: Git, GitHub and GitLab ('cause one will never be enough)
+- :dolphin: MySQL Workbench for database management
+
+I'm in love with :apple: :computer: and food :bread: :spaghetti: :cut_of_meat:
+:dumpling: :sushi:. I'm also quite good at cocking :cook:.
+
+### You can find me on
+- [instagram] (https://www.instagram.com/emanuel_soda/)
+- [Linkedin](https://www.linkedin.com/in/emanuel-soda-5b3565188/)
