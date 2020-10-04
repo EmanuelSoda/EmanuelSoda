@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it). Currently doing an internship at [Istituto Europeo di Oncologia](https://www.ieo.it).
+I'm Emanuel Soda. I've a bachelor degree in Computer Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it). I'm studying Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it). Currently doing an internship at [Istituto Europeo di Oncologia](https://www.ieo.it).
 
 ### Some of my work :construction_worker:
 - :brain: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
