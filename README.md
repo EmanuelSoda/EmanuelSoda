@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_scientist: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it).
+I'm Emanuel Soda. I'm studying Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it).
 
 ### Some of my work :construction_worker:
 - :brain: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
