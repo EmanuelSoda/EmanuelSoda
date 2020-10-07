@@ -18,7 +18,6 @@ I've also experimented with different tools, like:
 
 I'm in love with :apple: :computer: and food :bread: :spaghetti: :cut_of_meat:
 :dumpling: :sushi:. 
-I'm also quite good at cocking :cook:.
 
 ### You can find me on
 - [Instagram](https://www.instagram.com/emanuel_soda/)
