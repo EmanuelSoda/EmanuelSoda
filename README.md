@@ -9,7 +9,7 @@ I'm Emanuel Soda. I've a bachelor degree in Computer Science at [Università deg
 
 ### What I'm in to :heart:
 I *really* like **Biology**, **Science**, **Statistics** and **Informatics**.
-I've studied *Java* :coffee:, *Python* :snake:, *R* :test_tube:.
+I've studied [*Java*](https://www.java.com/it/) :coffee:, [*Python*](https://www.python.org/) :snake:, [*R*](https://www.r-project.org/) :test_tube:.
 
 
 I've also experimented with different tools, like:
