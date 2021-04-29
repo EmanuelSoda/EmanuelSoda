@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm Emanuel Soda. I've a bachelor degree in Computer Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it). I'm studying Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it). Currently doing an internship at [Istituto Europeo di Oncologia](https://www.ieo.it).
+I'm Emanuel Michele Soda. I've a bachelor degree in Computer Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it). I'm studying Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it). Currently doing an internship at [Istituto Europeo di Oncologia](https://www.ieo.it).
 
 ### Some of my work :construction_worker:
-- :brain: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
+- :brain: 💻: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
 - :snake: [BWT](https://github.com/EmanuelSoda/ProgrammingPython)
 - :dna:		[RNA-seq](https://github.com/EmanuelSoda/TranscriptomicsProject)
 
@@ -22,5 +22,6 @@ I'm in love with :apple: :computer: and food :bread: :spaghetti: :cut_of_meat:
 ### You can find me on
 - [Instagram](https://www.instagram.com/emanuel_soda/)
 - [Linkedin](https://www.linkedin.com/in/emanuel-soda-5b3565188/)
+- [IEO](https://www.research.ieo.it/emanuel-michele-soda/) 
 ### Stats
 [![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelSoda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
