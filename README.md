@@ -16,7 +16,7 @@ I'm Emanuel Michele Soda. I've a bachelor degree in Computer Science at [Univers
 ### Some of my work :construction_worker:
 - :brain: 💻: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
 - :snake: [BWT](https://github.com/EmanuelSoda/ProgrammingPython)
-- :dna:		[RNA-seq](https://github.com/EmanuelSoda/TranscriptomicsProject)
+- :dna:		[scRNA-seq](https://github.com/EmanuelSoda/TranscriptomicsProject)
 
 
 ### What I'm in to :heart:
