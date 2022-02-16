@@ -14,9 +14,10 @@
 I'm Emanuel Michele Soda. I've a bachelor degree in Computer Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it). I'm studying Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it). Currently doing an internship at [Istituto Europeo di Oncologia](https://www.ieo.it).
 
 ### Some of my work :construction_worker:
-- :brain: 💻: [ML Project](https://github.com/EmanuelSoda/ML_Homework)
+- :brain: 💻 [ML Project](https://github.com/EmanuelSoda/ML_Homework)
 - :snake: [BWT](https://github.com/EmanuelSoda/ProgrammingPython)
 - :dna:		[scRNA-seq](https://github.com/EmanuelSoda/TranscriptomicsProject)
+- :penguin: [Penguin Analysis](https://github.com/EmanuelSoda/Pinguini)
 
 
 ### What I'm in to :heart:
