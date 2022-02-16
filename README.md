@@ -43,7 +43,6 @@ R        ██████████████████████░�
 ### You can find me on
 - [Instagram](https://www.instagram.com/emanuel_soda/)
 - [Linkedin](https://www.linkedin.com/in/emanuel-soda-5b3565188/)
-- [IEO](https://www.research.ieo.it/emanuel-michele-soda/) 
 ### Stats
 [![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelSoda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
