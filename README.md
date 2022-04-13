@@ -2,7 +2,7 @@
   
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) 
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![My job](https://img.shields.io/badge/My%20job-IEO-success?style=flat-square&logo=IEO&logoColor=white)](https://www.ieo.it/)
+[![My job](https://img.shields.io/badge/My%20job-IEO-success?style=flat-square&logo=IEO&logoColor=white)](https://www.research.ieo.it/emanuel-michele-soda/)
   
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -45,6 +45,7 @@ R        ██████████████████████░�
 ### You can find me on
 - [Instagram](https://www.instagram.com/emanuel_soda/)
 - [Linkedin](https://www.linkedin.com/in/emanuel-soda-5b3565188/)
+- [IEO Research](https://www.research.ieo.it/emanuel-michele-soda/)
 ### Stats
 [![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelSoda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
