@@ -42,15 +42,10 @@ R        ██████████████████████░�
 ```
 <!--END_SECTION:waka-->
 
-### You can find me on
-- [Instagram](https://www.instagram.com/emanuel_soda/)
-- [Linkedin](https://www.linkedin.com/in/emanuel-soda-5b3565188/)
-- [IEO Research](https://www.research.ieo.it/emanuel-michele-soda/)
-### Stats
-[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelSoda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSoda&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+### Stats
+[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelSoda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSoda&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) 
   
   
