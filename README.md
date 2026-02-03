@@ -23,6 +23,7 @@ Currently, a PhD student in Data Analytics and Decision Sciences at [Human Techn
 - :dna:		[scRNA-seq](https://github.com/EmanuelSoda/TranscriptomicsProject)
 - :penguin: [Penguin Analysis](https://github.com/EmanuelSoda/Pinguini)
 - :dna: 💻 [ScreenR](https://github.com/EmanuelSoda/ScreenR)
+- 🔬[FUCCI](https://github.com/EmanuelSoda/FUCCI_ML)
 
 
 ### What I'm in to :heart:
