@@ -11,7 +11,7 @@
   
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Emanuel Michele Soda. I've a bachelor degree in Computer Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it)and a master in Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it).
+I'm Emanuel Michele Soda. I've a bachelor degree in Computer Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it) and a master in Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it).
 
 I have done an internship followed by a fellowship at [Istituto Europeo di Oncologia](https://www.ieo.it) in the [Minucci group](https://www.research.ieo.it/research-and-technology/principal-investigators/chromatin-alterations-in-tumorigenesis/).
 
