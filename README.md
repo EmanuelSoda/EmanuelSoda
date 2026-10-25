@@ -1,56 +1,87 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-  
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) 
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![My job](https://img.shields.io/badge/My%20job-IEO-success?style=flat-square&logo=IEO&logoColor=white)](https://www.research.ieo.it/emanuel-michele-soda/)
-  
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Editor-rstudio-blue?style=flat-square&logo=Rstudio&logoColor=white)](https://www.rstudio.com/)
-  
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi, I'm Emanuel 👋</h1>
 
-I'm Emanuel Michele Soda. I've a bachelor degree in Computer Science at [Università degli Studi di Milano-Bicocca](https://www.unimib.it) and a master in Bioinformatics for Computational Genomics :man_scientist: :computer: at [Università di Milano](https://www.unimi.it/it) and [Politecnico di Milano](https://www.polimi.it).
+<p align="center">
+  <b>PhD student in Computational Biology &amp; Data Science</b> · <a href="https://humantechnopole.it/en/">Human Technopole</a>, Milan 🇮🇹<br>
+  I build statistical and machine-learning methods to make sense of genomics and imaging data.
+</p>
 
-I have done an internship followed by a fellowship at [Istituto Europeo di Oncologia](https://www.ieo.it) in the [Minucci group](https://www.research.ieo.it/research-and-technology/principal-investigators/chromatin-alterations-in-tumorigenesis/).
+<p align="center">
+  <a href="https://emanuelsoda.github.io/personal-website/"><img alt="Website" src="https://img.shields.io/badge/Website-emanuelsoda.github.io-0A66C2?style=for-the-badge&logo=astro&logoColor=white"></a>
+  <a href="https://orcid.org/0000-0002-2301-6465"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--2301--6465-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://x.com/EmanuelSoda1"><img alt="X" src="https://img.shields.io/badge/X-@EmanuelSoda1-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://github.com/EmanuelSoda/curriculum"><img alt="CV" src="https://img.shields.io/badge/CV-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"></a>
+</p>
 
-Currently, a PhD student in Data Analytics and Decision Sciences at [Human Technopole](https://humantechnopole.it/en/) in the [Glastonbury group](https://humantechnopole.it/en/research-groups/glastonbury-group/).
+---
 
-### Some of my work :construction_worker:
-- :brain: 💻 [ML Project](https://github.com/EmanuelSoda/ML_Homework)
-- :snake: [BWT](https://github.com/EmanuelSoda/ProgrammingPython)
-- :dna:		[scRNA-seq](https://github.com/EmanuelSoda/TranscriptomicsProject)
-- :penguin: [Penguin Analysis](https://github.com/EmanuelSoda/Pinguini)
-- :dna: 💻 [ScreenR](https://github.com/EmanuelSoda/ScreenR)
-- 🔬💻[FUCCI](https://github.com/EmanuelSoda/FUCCI_ML)
+## 🔬 What I do
 
+- **Now:** PhD in Data Analytics and Decision Sciences at [Human Technopole](https://humantechnopole.it/en/), in the [Glastonbury group](https://humantechnopole.it/en/research-groups/glastonbury-group/).
+- **Interests:** computational pathology, spatial transcriptomics, single-cell analysis, functional genomics screens, statistical modelling.
+- **Before:** internship and fellowship at the [European Institute of Oncology (IEO)](https://www.ieo.it) in the [Minucci group](https://www.research.ieo.it/research-and-technology/principal-investigators/chromatin-alterations-in-tumorigenesis/).
+- **Education:** MSc Bioinformatics for Computational Genomics (Università di Milano + Politecnico di Milano) · BSc Computer Science (Università di Milano-Bicocca).
 
-### What I'm in to :heart:
-I *really* like **Biology**, **Science**, **Statistics** and **Informatics**.
-I've studied [*Java*](https://www.java.com/it/) :coffee:, [*Python*](https://www.python.org/) :snake:, [*R*](https://www.r-project.org/) :test_tube:.
+## 🚀 Featured projects
 
+| Project | What it is | Stack |
+|---|---|---|
+| [**ScreenR**](https://github.com/EmanuelSoda/ScreenR) · [docs](https://emanuelsoda.github.io/ScreenR/) | R package to find the genes that matter in pooled shRNA and CRISPR-Cas9 screens: calibrated gene-level statistics, built-in QC and publication-ready plots. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) edgeR · limma |
+| [**personal-website**](https://github.com/EmanuelSoda/personal-website) · [site](https://emanuelsoda.github.io/personal-website/) | My academic website. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) |
+| [**tobasco**](https://github.com/EmanuelSoda/tobasco) · [site](https://emanuelsoda.github.io/tobasco/) | Analysis project with a companion website. | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
+| [**blog_data_science_bioinfo**](https://github.com/EmanuelSoda/blog_data_science_bioinfo) · [blog](https://vocal-kataifi-b3b529.netlify.app) | Blog about data science and bioinformatics. | HTML |
+| [**FUCCI_ML**](https://github.com/EmanuelSoda/FUCCI_ML) | Machine learning on FUCCI cell-cycle imaging data. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) |
+| [**IBD_single_cell**](https://github.com/EmanuelSoda/IBD_single_cell) | Single-cell re-analysis of a published IBD dataset ([Nat. Commun. 2023](https://www.nature.com/articles/s41467-023-40156-6)). | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
+| [**rstudio_ieo**](https://github.com/EmanuelSoda/rstudio_ieo) · [**Docker**](https://github.com/EmanuelSoda/Docker) | Reproducible RStudio / Seurat Docker images for bioinformatics work. | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
-I've also experimented with different tools, like:
-- :octocat: Git and GitHub
-- :dolphin: [MySQL Workbench](https://www.mysql.com/it/products/workbench/) for database management
+<details>
+<summary><b>Academic coursework &amp; older projects</b></summary>
 
-I'm in love with :apple: :computer: and food :bread: :spaghetti: :cut_of_meat:
-:dumpling: :sushi:. 
+- [ML_Homework](https://github.com/EmanuelSoda/ML_Homework) – machine learning coursework
+- [ProgrammingPython](https://github.com/EmanuelSoda/ProgrammingPython) – scientific programming in Python (BWT)
+- [TranscriptomicsProject](https://github.com/EmanuelSoda/TranscriptomicsProject) – scRNA-seq analysis
+- [Pinguini](https://github.com/EmanuelSoda/Pinguini) – penguin data analysis in R
+- [active-regulatory-regions-ML](https://github.com/EmanuelSoda/active-regulatory-regions-ML) – predicting active regulatory regions with ML
+- [bayesian_rmodeling_example](https://github.com/EmanuelSoda/bayesian_rmodeling_example) – Bayesian hierarchical modelling in R
+- [Credit-Card-Fraud-Detection](https://github.com/EmanuelSoda/Credit-Card-Fraud-Detection) – tidymodels
 
+</details>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Python   ██░░░░░░░░░░░░░░░░░░░░░░░   10 % 
-R        ██████████████████████░░░   90 % 
-```
-<!--END_SECTION:waka-->
+## 🛠️ Toolbox
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-23CC85?style=flat-square&logo=nextflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Stats
-[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelSoda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+## 📊 GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSoda&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) 
-  
-  
+<p align="center">
+  <a href="https://github.com/EmanuelSoda"><img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EmanuelSoda&show_icons=true&hide_border=true&theme=transparent&title_color=007bff&icon_color=007bff&text_color=7d8590" /></a>
+  <a href="https://github.com/EmanuelSoda"><img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSoda&layout=compact&hide_border=true&theme=transparent&title_color=007bff&text_color=7d8590&langs_count=6" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/EmanuelSoda"><img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=EmanuelSoda&hide_border=true&theme=transparent&ring=007bff&fire=007bff&currStreakLabel=007bff&currStreakNum=7d8590&sideNums=7d8590&sideLabels=7d8590&dates=7d8590&background=00000000" /></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmanuelSoda/EmanuelSoda/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmanuelSoda/EmanuelSoda/output/github-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/EmanuelSoda/EmanuelSoda/output/github-snake.svg">
+  </picture>
+</p>
+
+## 🤝 Let's connect
+
+I'm always happy to talk about computational biology, statistics and open-source science. Open an issue on any of my repos, or reach out via [my website](https://emanuelsoda.github.io/personal-website/).
+
+<sub>Outside of work: food 🍝🍣, good coffee ☕ and anything Apple 🍎.</sub>
