@@ -9,7 +9,6 @@
   <a href="https://emanuelsoda.github.io/personal-website/"><img alt="Website" src="https://img.shields.io/badge/Website-emanuelsoda.github.io-0A66C2?style=for-the-badge&logo=astro&logoColor=white"></a>
   <a href="https://orcid.org/0000-0002-2301-6465"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--2301--6465-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
   <a href="https://x.com/EmanuelSoda1"><img alt="X" src="https://img.shields.io/badge/X-@EmanuelSoda1-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://github.com/EmanuelSoda/curriculum"><img alt="CV" src="https://img.shields.io/badge/CV-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"></a>
 </p>
 
 ---
@@ -27,39 +26,24 @@
 |---|---|---|
 | [**ScreenR**](https://github.com/EmanuelSoda/ScreenR) · [docs](https://emanuelsoda.github.io/ScreenR/) | R package to find the genes that matter in pooled shRNA and CRISPR-Cas9 screens: calibrated gene-level statistics, built-in QC and publication-ready plots. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) edgeR · limma |
 | [**personal-website**](https://github.com/EmanuelSoda/personal-website) · [site](https://emanuelsoda.github.io/personal-website/) | My academic website. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) |
-| [**tobasco**](https://github.com/EmanuelSoda/tobasco) · [site](https://emanuelsoda.github.io/tobasco/) | Analysis project with a companion website. | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
 | [**blog_data_science_bioinfo**](https://github.com/EmanuelSoda/blog_data_science_bioinfo) · [blog](https://vocal-kataifi-b3b529.netlify.app) | Blog about data science and bioinformatics. | HTML |
 | [**FUCCI_ML**](https://github.com/EmanuelSoda/FUCCI_ML) | Machine learning on FUCCI cell-cycle imaging data. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) |
-| [**IBD_single_cell**](https://github.com/EmanuelSoda/IBD_single_cell) | Single-cell re-analysis of a published IBD dataset ([Nat. Commun. 2023](https://www.nature.com/articles/s41467-023-40156-6)). | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
-| [**rstudio_ieo**](https://github.com/EmanuelSoda/rstudio_ieo) · [**Docker**](https://github.com/EmanuelSoda/Docker) | Reproducible RStudio / Seurat Docker images for bioinformatics work. | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
 <details>
 <summary><b>Academic coursework &amp; older projects</b></summary>
 
 - [ML_Homework](https://github.com/EmanuelSoda/ML_Homework) – machine learning coursework
 - [ProgrammingPython](https://github.com/EmanuelSoda/ProgrammingPython) – scientific programming in Python (BWT)
-- [TranscriptomicsProject](https://github.com/EmanuelSoda/TranscriptomicsProject) – scRNA-seq analysis
 - [Pinguini](https://github.com/EmanuelSoda/Pinguini) – penguin data analysis in R
-- [active-regulatory-regions-ML](https://github.com/EmanuelSoda/active-regulatory-regions-ML) – predicting active regulatory regions with ML
 - [bayesian_rmodeling_example](https://github.com/EmanuelSoda/bayesian_rmodeling_example) – Bayesian hierarchical modelling in R
-- [Credit-Card-Fraud-Detection](https://github.com/EmanuelSoda/Credit-Card-Fraud-Detection) – tidymodels
 
 </details>
 
 ## 🛠️ Toolbox
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-23CC85?style=flat-square&logo=nextflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"> <img alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img alt="Nextflow" src="https://img.shields.io/badge/Nextflow-23CC85?style=flat-square&logo=nextflow&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
 
 ## 📊 GitHub stats
 
